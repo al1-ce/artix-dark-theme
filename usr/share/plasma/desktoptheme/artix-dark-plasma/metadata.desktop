@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Artix Dark
+X-KDE-PluginInfo-Author=nous
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasmashell
+X-KDE-PluginInfo-Email=nous@artixlinux.org
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=Artix Dark Plasma
+X-KDE-PluginInfo-Version=0.2.1
+X-KDE-PluginInfo-Website=https://artixlinux.org
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Artix
+defaultFileSuffix=.jpg
+defaultWidth=1920
+defaultHeight=1080
